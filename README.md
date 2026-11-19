@@ -1,7 +1,7 @@
 # CoBS 2026 – TMS-EEG Practical
 
 Example code showcased during the hands-on TMS-EEG practical session
-of the [Copenhagen Brain Stimulation School (CoBS) 2026](https://www.drcmr.dk),
+of the [https://www.drcmr.dk/cobs2026/],
 held 9–13 November 2026 at DRCMR, Hvidovre, Copenhagen.
 
 The material shows the basic steps of working with TMS-evoked potentials
